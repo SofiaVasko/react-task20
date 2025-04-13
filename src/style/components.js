@@ -127,8 +127,9 @@ export const Nav = styled.nav`
 `;
 
 export const Legend = styled.legend`
-  margin: auto;
+  margin: 0 auto;
   font-size: 1.5em;
+  text-align: center;
 `;
 
 export const DivI = styled.div`
