@@ -130,7 +130,7 @@ const SignIn = () => {
         </ButtonC>
       </Form>
       <Nav>
-        <StyledLink to="/" theme={theme}>
+        <StyledLink to="*" theme={theme}>
           Forgot password?
         </StyledLink>
         <StyledLink to="/signup" theme={theme}>
